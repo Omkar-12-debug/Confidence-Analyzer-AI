@@ -124,8 +124,9 @@ The system intelligently combines modalities:
 
 ## 📥 Download & Installation
 
-👉 Download the application from:
-**[GitHub Releases Link]**
+👉 [Download Confidence Analyzer AI (Windows)](https://github.com/Omkar-12-debug/Confidence-Analyzer-AI/releases/tag/v1.0.0)
+
+> Download the setup file and install the application to use the system locally.
 
 ### Steps:
 
