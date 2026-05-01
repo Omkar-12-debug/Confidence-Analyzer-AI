@@ -1,0 +1,15 @@
+{
+  "visual_features": {
+    "facial_emotion": "Disgust",
+    "emotion_confidence": 0.1612019298473994,
+    "emotion_stability": 1.0,
+    "blink_rate": 0.0,
+    "eye_contact_percentage": 284.6666666666667,
+    "head_movement_frequency": 36.44684128073506,
+    "face_detected": true,
+    "total_frames_processed": 427,
+    "analysis_duration": 37.86336350440979
+  },
+  "timestamp": "2026-03-09T22:53:58.629514",
+  "module": "bhavesh_visual"
+}

@@ -1,0 +1,13 @@
+[
+    {
+        "facial_emotion": "Disgust",
+        "emotion_confidence": 0.16574466864267984,
+        "emotion_stability": 1.0,
+        "blink_rate": 0.7051282051282052,
+        "eye_contact_percentage": 261.3333333333333,
+        "head_movement_frequency": 9.935897435897436,
+        "face_detected": true,
+        "total_frames_processed": 468,
+        "analysis_duration": 15.6
+    }
+]

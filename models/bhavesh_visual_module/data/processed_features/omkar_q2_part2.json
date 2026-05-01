@@ -1,0 +1,13 @@
+[
+    {
+        "facial_emotion": "Sad",
+        "emotion_confidence": 0.15647914129145005,
+        "emotion_stability": 0.9261744966442953,
+        "blink_rate": 1.1688311688311688,
+        "eye_contact_percentage": 96.66666666666667,
+        "head_movement_frequency": 4.285714285714286,
+        "face_detected": true,
+        "total_frames_processed": 154,
+        "analysis_duration": 5.133333333333334
+    }
+]

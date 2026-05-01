@@ -1,0 +1,43 @@
+{
+    "source_id": "recording",
+    "timestamp": "2026-04-16T19:16:44.532549",
+    "audio_module": {
+        "status": "success",
+        "score": 80.35,
+        "model_prediction": "confident",
+        "model_confidence": 98.01,
+        "features": {
+            "pitch_mean": 166.06008129006827,
+            "pitch_std": 84.99852107134872,
+            "energy": 0.013200745917856693,
+            "mfcc_mean": -19.55792999267578,
+            "pause_ratio": 0.3775811209439528,
+            "speech_rate": 3.6895674300254453
+        },
+        "duration": 15.72
+    },
+    "facial_module": {
+        "status": "success",
+        "score": 85.0,
+        "class": "High",
+        "features": {
+            "blink_rate": 0.1921,
+            "eye_contact_percentage": 100.0,
+            "head_movement_frequency": 0.9606,
+            "emotion_stability": 0.95,
+            "emotion_confidence": 0.155
+        },
+        "frames_processed": 78,
+        "face_detected_frames": 78
+    },
+    "fusion_module": {
+        "final_confidence_class": "High",
+        "features_used": {
+            "voice_confidence_score": 80.35,
+            "facial_confidence_score": 85.0
+        },
+        "final_confidence_score": 82.67,
+        "status": "success"
+    },
+    "warnings": []
+}

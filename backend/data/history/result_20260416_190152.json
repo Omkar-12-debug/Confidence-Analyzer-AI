@@ -1,0 +1,36 @@
+{
+    "source_id": "recording",
+    "timestamp": "2026-04-16T19:01:52.892481",
+    "audio_module": {
+        "status": "success",
+        "score": 76.36,
+        "model_prediction": "confident",
+        "model_confidence": 90.91,
+        "features": {
+            "pitch_mean": 173.5840587189106,
+            "pitch_std": 90.0649568205852,
+            "energy": 0.02324424497783184,
+            "mfcc_mean": -20.86911392211914,
+            "pause_ratio": 0.46825396825396826,
+            "speech_rate": 3.0821917808219177
+        },
+        "duration": 8.76
+    },
+    "facial_module": {
+        "status": "error",
+        "error": "No frames could be processed from the video",
+        "score": 0.0
+    },
+    "fusion_module": {
+        "final_confidence_class": "Low",
+        "features_used": {
+            "voice_confidence_score": 76.36,
+            "facial_confidence_score": 0.0
+        },
+        "final_confidence_score": 38.18,
+        "status": "success"
+    },
+    "warnings": [
+        "Visual extraction failed: No frames could be processed from the video"
+    ]
+}

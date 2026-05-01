@@ -1,0 +1,13 @@
+[
+    {
+        "facial_emotion": "Angry",
+        "emotion_confidence": 0.15899285520353015,
+        "emotion_stability": 1.0,
+        "blink_rate": 0.0,
+        "eye_contact_percentage": 92.06349206349206,
+        "head_movement_frequency": 9.047619047619047,
+        "face_detected": true,
+        "total_frames_processed": 126,
+        "analysis_duration": 4.2
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "facial_emotion": "Fear",
+        "emotion_confidence": 0.14941820372076867,
+        "emotion_stability": 0.9261744966442953,
+        "blink_rate": 0.6651884700665188,
+        "eye_contact_percentage": 120.66666666666667,
+        "head_movement_frequency": 5.521064301552107,
+        "face_detected": true,
+        "total_frames_processed": 451,
+        "analysis_duration": 15.033333333333333
+    }
+]

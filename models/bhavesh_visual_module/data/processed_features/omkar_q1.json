@@ -1,0 +1,13 @@
+[
+    {
+        "facial_emotion": "Surprise",
+        "emotion_confidence": 0.15410906408841793,
+        "emotion_stability": 0.9463087248322147,
+        "blink_rate": 0.9545454545454546,
+        "eye_contact_percentage": 106.0,
+        "head_movement_frequency": 7.909090909090909,
+        "face_detected": true,
+        "total_frames_processed": 220,
+        "analysis_duration": 7.333333333333333
+    }
+]

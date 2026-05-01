@@ -1,0 +1,13 @@
+[
+    {
+        "facial_emotion": "Neutral",
+        "emotion_confidence": 0.16765899260838826,
+        "emotion_stability": 1.0,
+        "blink_rate": 0.2127659574468085,
+        "eye_contact_percentage": 253.33333333333331,
+        "head_movement_frequency": 5.177304964539007,
+        "face_detected": true,
+        "total_frames_processed": 423,
+        "analysis_duration": 14.1
+    }
+]

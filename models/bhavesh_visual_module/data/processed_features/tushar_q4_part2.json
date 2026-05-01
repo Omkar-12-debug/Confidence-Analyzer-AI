@@ -1,0 +1,13 @@
+[
+    {
+        "facial_emotion": "Happy",
+        "emotion_confidence": 0.1479094202319781,
+        "emotion_stability": 1.0,
+        "blink_rate": 0.5172413793103449,
+        "eye_contact_percentage": 300.6666666666667,
+        "head_movement_frequency": 0.1724137931034483,
+        "face_detected": true,
+        "total_frames_processed": 522,
+        "analysis_duration": 17.4
+    }
+]

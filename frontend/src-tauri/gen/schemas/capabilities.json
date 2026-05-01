@@ -1,0 +1,1 @@
+{"default":{"identifier":"default","description":"Capability for the main window — grants core, shell sidecar, and opener permissions","local":true,"windows":["main"],"permissions":["core:default","opener:default",{"identifier":"shell:allow-spawn","allow":[{"name":"binaries/run_backend","sidecar":true}]},"shell:allow-kill","shell:allow-stdin-write"]}}

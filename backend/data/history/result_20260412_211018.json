@@ -1,0 +1,36 @@
+{
+    "source_id": "recording",
+    "timestamp": "2026-04-12T21:10:18.055205",
+    "audio_module": {
+        "status": "error",
+        "error": "Neither librosa nor ffmpeg could extract audio. Install ffmpeg.",
+        "score": 0.0
+    },
+    "facial_module": {
+        "status": "success",
+        "score": 30.0,
+        "class": "Low",
+        "features": {
+            "blink_rate": 0.0,
+            "eye_contact_percentage": 0.0,
+            "head_movement_frequency": 0.0,
+            "emotion_stability": 0.5,
+            "emotion_confidence": 0.15
+        },
+        "frames_processed": 0,
+        "face_detected_frames": 0
+    },
+    "fusion_module": {
+        "final_confidence_class": "Low",
+        "features_used": {
+            "voice_confidence_score": 0.0,
+            "facial_confidence_score": 30.0
+        },
+        "final_confidence_score": 15.0,
+        "status": "success"
+    },
+    "warnings": [
+        "Audio extraction failed: Neither librosa nor ffmpeg could extract audio. Install ffmpeg.",
+        "No video track found \u2014 visual analysis skipped"
+    ]
+}

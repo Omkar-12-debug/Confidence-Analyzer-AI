@@ -1,0 +1,99 @@
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+2026-04-11 00:07:24.441659: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE SSE2 SSE3 SSE4.1 SSE4.2 AVX AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Found 78 clips to extract features from.
+
+Processing: adish_q1_part1.mp4...
+[INFO] Initializing Feature Extractor...
+[INFO] Face detector initialized using mediapipe
+[INFO] Landmark extractor initialized
+[INFO] Model not found. Downloading...
+[WARNING] Could not download model. Will use fallback method.
+[INFO] Creating fallback emotion model...
+[INFO] Fallback model created
+[INFO] Emotion recognizer initialized
+[INFO] Behavior metrics initialized
+[INFO] Feature Extractor initialized successfully
+DEBUG: C:\Users\parth\sy_aiml\edai4\confidence_ai_project\video_data\adish_q1_part1.mp4 Opened: True, First Read: True
+Frames processed: 51
+Frames with face: 51
+Video: adish_q1_part1.mp4
+blink_rate: 0.0000
+eye_contact_percentage: 100.0000
+head_movement_frequency: 9881.2789
+emotion_stability: 1.0000
+emotion_confidence: 0.1605
+
+Processing: adish_q1_part2.mp4...
+[INFO] Initializing Feature Extractor...
+[INFO] Face detector initialized using mediapipe
+[INFO] Landmark extractor initialized
+[INFO] Model not found. Downloading...
+[WARNING] Could not download model. Will use fallback method.
+[INFO] Creating fallback emotion model...
+[INFO] Fallback model created
+[INFO] Emotion recognizer initialized
+[INFO] Behavior metrics initialized
+[INFO] Feature Extractor initialized successfully
+DEBUG: C:\Users\parth\sy_aiml\edai4\confidence_ai_project\video_data\adish_q1_part2.mp4 Opened: True, First Read: True
+Frames processed: 50
+Frames with face: 50
+Video: adish_q1_part2.mp4
+blink_rate: 0.0000
+eye_contact_percentage: 100.0000
+head_movement_frequency: 11644.5064
+emotion_stability: 1.0000
+emotion_confidence: 0.1571
+
+Processing: adish_q2_part1.mp4...
+[INFO] Initializing Feature Extractor...
+[INFO] Face detector initialized using mediapipe
+[INFO] Landmark extractor initialized
+[INFO] Model not found. Downloading...
+[WARNING] Could not download model. Will use fallback method.
+[INFO] Creating fallback emotion model...
+[INFO] Fallback model created
+[INFO] Emotion recognizer initialized
+[INFO] Behavior metrics initialized
+[INFO] Feature Extractor initialized successfully
+DEBUG: C:\Users\parth\sy_aiml\edai4\confidence_ai_project\video_data\adish_q2_part1.mp4 Opened: True, First Read: True
+Frames processed: 50
+Frames with face: 50
+Video: adish_q2_part1.mp4
+blink_rate: 0.0000
+eye_contact_percentage: 100.0000
+head_movement_frequency: 7763.8769
+emotion_stability: 0.9592
+emotion_confidence: 0.1578
+
+Processing: adish_q2_part2.mp4...
+[INFO] Initializing Feature Extractor...
+[INFO] Face detector initialized using mediapipe
+[INFO] Landmark extractor initialized
+[INFO] Model not found. Downloading...
+[WARNING] Could not download model. Will use fallback method.
+[INFO] Creating fallback emotion model...
+[INFO] Fallback model created
+[INFO] Emotion recognizer initialized
+[INFO] Behavior metrics initialized
+[INFO] Feature Extractor initialized successfully
+DEBUG: C:\Users\parth\sy_aiml\edai4\confidence_ai_project\video_data\adish_q2_part2.mp4 Opened: True, First Read: True
+Frames processed: 49
+Frames with face: 49
+
+Processing: adish_q3_part1.mp4...
+[INFO] Initializing Feature Extractor...
+[INFO] Face detector initialized using mediapipe
+[INFO] Landmark extractor initialized
+[INFO] Model not found. Downloading...
+[WARNING] Could not download model. Will use fallback method.
+[INFO] Creating fallback emotion model...
+[INFO] Fallback model created
+[INFO] Emotion recognizer initialized
+[INFO] Behavior metrics initialized
+[INFO] Feature Extractor initialized successfully
+DEBUG: C:\Users\parth\sy_aiml\edai4\confidence_ai_project\video_data\adish_q3_part1.mp4 Opened: True, First Read: True
+Frames processed: 85
+Frames with face: 85
+CRITICAL VALIDATION ERROR: blink_rate is constant across videos.
+Stopping pipeline due to constant feature extraction errors.

@@ -1,0 +1,45 @@
+{
+    "source_id": "recording",
+    "timestamp": "2026-04-14T22:03:18.027044",
+    "audio_module": {
+        "status": "success",
+        "score": 61.69,
+        "model_prediction": "confident",
+        "model_confidence": 90.21,
+        "features": {
+            "pitch_mean": 97.10929519373913,
+            "pitch_std": 20.84300157219784,
+            "energy": 0.003491898300126195,
+            "mfcc_mean": -16.800939559936523,
+            "pause_ratio": 0.8868613138686131,
+            "speech_rate": 3.773584905660377
+        },
+        "duration": 6.36
+    },
+    "facial_module": {
+        "status": "success",
+        "score": 30.0,
+        "class": "Low",
+        "features": {
+            "blink_rate": 0.0,
+            "eye_contact_percentage": 0.0,
+            "head_movement_frequency": 0.0,
+            "emotion_stability": 0.5,
+            "emotion_confidence": 0.15
+        },
+        "frames_processed": 0,
+        "face_detected_frames": 0
+    },
+    "fusion_module": {
+        "final_confidence_class": "Low",
+        "features_used": {
+            "voice_confidence_score": 61.69,
+            "facial_confidence_score": 30.0
+        },
+        "final_confidence_score": 45.84,
+        "status": "success"
+    },
+    "warnings": [
+        "No video track found \u2014 visual analysis skipped"
+    ]
+}
