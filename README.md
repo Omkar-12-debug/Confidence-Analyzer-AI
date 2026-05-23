@@ -171,7 +171,7 @@ The system supports:
 * Parth Moghe
 * Heet Patel
 * Bhavesh Mundake
-
+* Arnav Pachori
 ---
 
 ## 📄 License
