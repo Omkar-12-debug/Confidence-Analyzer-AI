@@ -1,4 +1,4 @@
-# 🎯 Confidence Analyzer ai
+# 🎯 Confidence Analyzer AI 
 
 ### Multimodal Confidence & Stress Analysis using Speech and Facial Behavior
 
